@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gato con gafas
+* source:	https://sketchfab.com/3d-models/gato-con-gafas-22d95dbbb01644fd80aea7f3bcfcc433
+* author:	ArtesDigitalesUCJC (https://sketchfab.com/ArtesDigitalesUCJC)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gato con gafas" (https://sketchfab.com/3d-models/gato-con-gafas-22d95dbbb01644fd80aea7f3bcfcc433) by ArtesDigitalesUCJC (https://sketchfab.com/ArtesDigitalesUCJC) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
